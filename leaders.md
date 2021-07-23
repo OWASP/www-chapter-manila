@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Yen-Ling Kuo](mailto:yen-ling.kuo@owasp.org)
+* [Kenneth Brian Garcia](mailto:kenneth.garcia@owasp.org)
