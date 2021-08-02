@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About OWASP MNL
 layout:  null
 tab: true
 order: 1
