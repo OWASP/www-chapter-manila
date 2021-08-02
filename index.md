@@ -1,3 +1,7 @@
+
+
+<div>
+
 ![OWASP MNL](https://user-images.githubusercontent.com/55728839/127822950-7de060f8-d887-43ab-920f-62911cd7cece.png)
 
 ## Welcome
@@ -25,6 +29,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
+
+</div>
 
 <!-- You should delete this comment
 
