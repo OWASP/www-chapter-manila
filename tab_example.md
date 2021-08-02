@@ -1,6 +1,6 @@
 ---
-title: About OWASP MNL
-layout:  null
+title: About
+layout: null
 tab: true
 order: 1
 tags: OWASP-MNL
