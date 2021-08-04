@@ -1,9 +1,10 @@
 ---
 title: About
+displaytext: About OWASP MNL
 layout: null
 tab: true
-order: 1
-tags: OWASP-MNL
+order: 2
+tags: manila
 ---
 
 ## About OWASP MNL
