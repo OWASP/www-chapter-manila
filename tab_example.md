@@ -1,9 +1,9 @@
 ---
-title: Example
-displaytext: Past Events
+title: About Us
+displaytext: About Us
 layout:  null
 tab: true
-order: 1
+order: 2
 tags: Manila
 ---
 
