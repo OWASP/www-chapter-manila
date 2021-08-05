@@ -1,6 +1,5 @@
 ---
 title: About
-displaytext: About Us
 layout: null
 tab: true
 order: 2
