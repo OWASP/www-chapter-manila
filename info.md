@@ -3,6 +3,6 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-manila/)
-* [Offcial Facebook Page](https://www.facebook.com/OWASPManila) 
+* [Official Facebook Page](https://www.facebook.com/OWASPManila) 
 
 
