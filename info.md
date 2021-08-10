@@ -3,7 +3,7 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-manila/)
-* [Official Facebook Page](https://www.owasp.org/www-chapter-manila/)
+* Official Facebook Page
 
 
 
