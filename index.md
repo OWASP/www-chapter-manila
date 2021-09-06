@@ -21,7 +21,7 @@ We would be delighted to see you soon!
 
 ## Upcoming Events
 
-Please visit our [OWASP Manila Meetup Group](https://www.meetup.com/owasp-manila/) to register for upcoming events.
+Please visit our [Meetup](https://www.meetup.com/owasp-manila/) to register for upcoming events.
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider joining OWASP if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
