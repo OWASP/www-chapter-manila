@@ -1,5 +1,6 @@
 ---
 title: About
+displaytext: About OWASP MNL
 layout:  null
 tab: true
 order: 1
