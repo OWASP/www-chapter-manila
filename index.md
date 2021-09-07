@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Manila
-tags: example_tag
+tags: example-tag
 region: Asia
 meetup-group: owasp-manila
 
